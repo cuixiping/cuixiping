@@ -1,3 +1,5 @@
+![pusheencode](https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif)
+
 ### Hi there :beers:
 
 - :smiley_cat: I’m currently working on ...
